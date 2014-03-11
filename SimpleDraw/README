@@ -1,0 +1,5 @@
+simple tutorial from http://www.math.ucsd.edu/~sbuss/MathCG/OpenGLsoft/SimpleDraw/SimpleDraw.html 
+
+compile line is:
+
+gcc SimpleDraw.c -o SimpleDraw -lGL -lGLU -lglut
